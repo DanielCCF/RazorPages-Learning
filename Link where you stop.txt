@@ -1,0 +1,1 @@
+https://docs.microsoft.com/pt-br/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-3.0&tabs=visual-studio
